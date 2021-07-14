@@ -14,5 +14,5 @@
 - ⚡ Fun fact: I am 50 meteres away from your location
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FloridaMan7588)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=MacOSEFI)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=MacOS-efi)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=docker-bungeecord)
