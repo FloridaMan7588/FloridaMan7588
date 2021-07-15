@@ -11,7 +11,7 @@
 - 💬 Ask me about my projects
 - 📫 How to reach me: Don't, Discord (FloridaMan#7588), or Email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am 50 meteres away from your location
+- ⚡ Fun fact: I am 50 meters away from your location
 
 ## Tools I Use
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
