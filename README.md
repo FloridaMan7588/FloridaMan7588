@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my projects
 - 📫 How to reach me: Don't, Discord (FloridaMan#7588), or Email
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am 50 meteres away from your location
 
 ## Tools I Use
