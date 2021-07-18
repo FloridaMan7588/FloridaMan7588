@@ -1,5 +1,5 @@
 ### Hello!
-I'm FloridaMan, but you can call me anything. I do not care. I'm a small developer working with a few types of languages, tools, and programs. I have some projects that you can see below or in the repositories tab. Please note that I've been working on my skills for a few years now, but most of my projects use skills that I've only learned recently, so please don't complain too much. I made some *very* basic docker containers, the source for those can be found here. I've also thrown together a Hackintosh running OpenCore, you can find the EFI folder as well as some other basic info on that here as wel.
+I'm FloridaMan, but you can call me anything. I do not care. I'm a small developer working with a few types of languages, tools, and programs. I have some projects that you can see below or in the repositories tab. Please note that I've been working on my skills for a few years now, but most of my projects use skills that I've only learned recently, so please don't complain too much. I made some *very* basic docker containers, the source for those can be found here. I've also thrown together a Hackintosh running OpenCore, you can find the EFI folder as well as some other basic info on that here as well.
 
 
 - 🔭 I’m currently working on things
