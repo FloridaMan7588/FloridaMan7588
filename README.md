@@ -7,7 +7,7 @@ I'm FloridaMan, but you can call me anything. I do not care. I'm a small develop
 - 👯 I’m looking to collaborate on don't talk to me
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my projects
-- 📫 How to reach me: Don't, Discord (FloridaMan#7588), or Email
+- 📫 How to reach me: Don't, Discord [join the discord server](https://discord.gg/YHwUZHQAP7), or Email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am 50 meters away from your location
 
