@@ -3,7 +3,7 @@ I'm FloridaMan, but you can call me anything. I do not care. I'm a small develop
 
 
 - 🔭 I’m currently working on things
-- 🌱 I’m currently learning C, Swfit, and Russian
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on don't talk to me
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my projects
