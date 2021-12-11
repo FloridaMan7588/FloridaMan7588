@@ -32,7 +32,7 @@ I'm FloridaMan, but you can call me anything. I do not care. I'm a small develop
 </a>
 
 
-<a href="https://github.com/FloridaMan7588/docker-bungeecord">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=docker-bungeecord&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/FloridaMan7588/floridaman7588.me">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=floridaman7588.me&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
