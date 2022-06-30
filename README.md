@@ -6,7 +6,7 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
 - 👯 I’m looking to collaborate on don't talk to me
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my projects
-- 📫 How to reach me: Don't, Discord: [join the discord server](https://discord.gg/YHwUZHQAP7), or Email (preferably Discord because I'm usually on)
+- 📫 How to reach me: You can find my socials @ https://fm7588.me/links
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am 50 meters away from your location
 
@@ -14,7 +14,7 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
@@ -27,7 +27,7 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
 </a>
 
 <a href="https://github.com/FloridaMan7588/MacOS-efi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=MacOS-efi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=waterfox-flatpak&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
