@@ -26,8 +26,8 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloridaMan7588&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/FloridaMan7588/MacOS-efi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloridaMan7588&repo=waterfox-flatpak&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Flathub/net.waterfox.waterfox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FlatHub&repo=net.waterfox.waterfox&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_owner=true" />
 </a>
 
 
