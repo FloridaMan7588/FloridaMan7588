@@ -19,11 +19,11 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
 
 ## GitHub Stats
 
-<a href="https://github.com/FloridaMan7588/FloridaMan7588">
+<a href="https://github.com/FloridaMan7588">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloridaMan7588&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/FloridaMan7588/FloridaMan7588">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloridaMan7588&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/FloridaMan7588">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloridaMan7588&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/FloridaMan7588/MacOS-efi">
