@@ -6,12 +6,12 @@ I'm FloridaMan, but you can call me whatever. I do not care. I'm a small develop
 - 👯 I’m looking to collaborate on don't talk to me
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about my projects
-- 📫 How to reach me: You can find my socials @ https://fm7588.me/links
+- 📫 How to reach me: You can find my socials @ https://fm7588.me/links, or my Mastodon <a rel="me" href="https://tech.lgbt/@floridaman">here</a>.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am 50 meters away from your location
 
 ## Tools I Use
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-VanillaOS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
